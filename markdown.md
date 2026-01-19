@@ -14,6 +14,8 @@ git config --list
 
 [Google](https://www.google.com/)
 
+[README](README.md)
+
 ![one piece](one-piece-feast-462924.gif)
 
 | Cosa 1 | Cosa 2 |
