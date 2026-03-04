@@ -3,7 +3,7 @@
 **negrita** *cursiva* `codigo`
 ```
 git config --list
-```
+```java
 1. Uno
 2. Dos
 3. Tres
